@@ -51,3 +51,4 @@ C:\Users\David\Source\Repos\pcShopNew\WingtipToys\bin\Microsoft.Owin.Security.OA
 C:\Users\David\Source\Repos\pcShopNew\WingtipToys\obj\Debug\WingtipToys.csprojResolveAssemblyReference.cache
 C:\Users\David\Source\Repos\pcShopNew\WingtipToys\obj\Debug\WingtipToys.dll
 C:\Users\David\Source\Repos\pcShopNew\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\david\Source\Repos\pcShopNew\WingtipToys\obj\Debug\WingtipToys.csproj.CoreCompileInputs.cache
